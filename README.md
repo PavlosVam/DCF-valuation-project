@@ -1,4 +1,4 @@
-## **Summary
+## Summary
 
 The main functionality of this tool is to calculate the both Equity and Enterprise value of a selected company with the DCF method. 
 The forcasting of the future FCF and stocks are conducted through a Monte Carlo simulation This project, in order to be properly executed, 
@@ -15,5 +15,5 @@ It is evolving and currently in its early stage.
 Sources :
 -
 
-Aswath Damodaran for premiums, rf etc
-FMP for APIs (limited access)
+- Aswath Damodaran for premiums, rf etc
+- FMP for APIs (limited access)
