@@ -12,6 +12,10 @@ Furthemore, it relies on the following significant **assumptions** :
 
 It is evolving and currently in its early stage.
 
+## Notes
+Things i should do next:
+I should calculate the multiples and make a comparable analysis as well as a sensitivity analysis with regression, more dynamic and smart.
+
 Sources :
 -
 
